@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\USER\Desktop\복습\Project1\Project1\소스.cpp(39,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Node **'입니다.
+C:\Users\USER\Desktop\복습\Project1\Project1\소스.cpp(62,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Node *'입니다.
+  Project1.vcxproj -> C:\Users\USER\Desktop\복습\Project1\Debug\Project1.exe
